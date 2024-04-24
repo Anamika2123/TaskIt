@@ -38,7 +38,7 @@ form.onsubmit = (e) => {
         }
     }
     if (!eField.classList.contains("error") && !pField.classList.contains("error")) {
-        window.location.href = "home1.html";
+        window.location.href = "home.html";
     }
 };
 
